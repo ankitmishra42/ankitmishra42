@@ -7,9 +7,11 @@ I work with PHP, Python, JavaScript, MVC Frameworks and Cloud based technologies
 - 💞️ I’m looking to collaborate on any software or devops related projects
 - 📫 You can reach me out via:
   
-    Visit my Website 🌐
-    Connect with me on LinkedIn 👨🏻‍💻
-    Shoot Me an Email 💌   ankitmishra6221@gmail.com
+    Visit my Website: 🌐
+  
+    Connect with me on LinkedIn: 👨🏻‍💻  
+  
+    Shoot Me an Email: 💌   ankitmishra6221@gmail.com
 -   
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
