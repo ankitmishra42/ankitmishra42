@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Ankit Mishra
 - 👀 I'm a Full Stack Software Devloper passionate about developing production-ready web applications with 6+ months of professional onsite as well as remote working experience. 🎯
 
-I work with PHP, Python, JavaScript, MVC Frameworks and Cloud based technologies ,and also others. 🚀
+      I work with PHP, Python, JavaScript, MVC Frameworks and Cloud based technologies ,and also others. 🚀
 
 - 🌱 I’m currently working as a software devloper at persist ventures
 - 💞️ I’m looking to collaborate on any software or devops related projects
