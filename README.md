@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Ankit Mishra
-- 👀 I'm a Full Stack Software Devloper passionate about developing production-ready web applications with 6+ months of professional onsite as well as remote working experience. 🎯
+- 👀 I'm a Full Stack Software Devloper passionate about developing production-ready web applications with 1+ years of professional onsite as well as remote working experience. 🎯
 
       I work with PHP, Python, JavaScript, MVC Frameworks and Cloud based technologies ,and also others. 🚀
 
