@@ -9,7 +9,7 @@
   
     Visit my Website: 🌐
   
-    Connect with me on LinkedIn: 👨🏻‍💻  
+    Connect with me on LinkedIn: https://www.linkdin.com/in/ankit-mishra-anengineer👨🏻‍💻  
   
     Shoot Me an Email: 💌   ankitmishra6221@gmail.com
 -   
