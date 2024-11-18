@@ -3,7 +3,7 @@
 
       I work with PHP, Python, JavaScript, MVC Frameworks and Cloud based technologies ,and also others. 🚀
 
-- 🌱 I’m currently working as a software devloper intern at persist ventures
+- 🌱 I’m currently working as a software devloper intern at Persist ventures
 - 💞️ I’m looking to collaborate on any software or devops related projects
 - 📫 You can reach me out via:
   
