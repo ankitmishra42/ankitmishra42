@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Ankit Mishra
 - 👀 I'm a Full Stack Software Devloper passionate about developing production-ready web applications with 1+ years of professional onsite as well as remote working experience. 🎯
 
-      I work with PHP, Python, JavaScript, MVC Frameworks and Cloud based technologies ,and also others. 🚀
+      I work as Data Analyst with Python, PowerBI, SQL, Excel, and Cloud based technologies like AWS, and others also. 🚀
 
 - 🌱 I’m currently working as a software devloper intern at Persist ventures
 - 💞️ I’m looking to collaborate on any software or devops related projects
