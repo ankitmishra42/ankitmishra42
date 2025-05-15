@@ -1,10 +1,9 @@
 - 👋 Hi there, I’m Ankit Mishra
-- 👀 I'm a Full Stack Software Devloper passionate about developing production-ready web applications with 1+ years of professional onsite as well as remote working experience. 🎯
+- 👀 I'm a Software Devloper and Data Analyst experienced with Python, PowerBI, SQL, Excel, and Cloud based technologies like AWS, and others also🚀, passionate about developing production-ready web applications and fetch insides from raw data with 1+ years of professional onsite as well as remote working experience. 🎯
 
-      I work as Data Analyst with Python, PowerBI, SQL, Excel, and Cloud based technologies like AWS, and others also. 🚀
-
-- 🌱 I’m currently working as a software devloper intern at Persist ventures
-- 💞️ I’m looking to collaborate on any software or devops related projects
+- 🌱 I’m currently working as a Dataa= Analyst intern at Flexing data.
+- 🌱 Previously I worked for six months as a software devloper intern at Persist ventures.
+- 💞️ I’m looking to collaborate on any software or Data analysis related projects
 - 📫 You can reach me out via:
   
     Visit my Website: 🌐 https://ankitmishra42.github.io/MyPortfolio
